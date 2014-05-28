@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E4602341-2027-46A1-9943-12895CD69475</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MobileMappers1</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9BD6B1C2-57B5-4DA8-8E54-426982B59049</key>
+		<string>https://github.com/rsctiltz/MobileMappers.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MobileMappers1/MobileMappers1.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9BD6B1C2-57B5-4DA8-8E54-426982B59049</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rsctiltz/MobileMappers.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9BD6B1C2-57B5-4DA8-8E54-426982B59049</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9BD6B1C2-57B5-4DA8-8E54-426982B59049</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MobileMappers</string>
+		</dict>
+	</array>
+</dict>
+</plist>
